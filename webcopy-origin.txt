@@ -1,0 +1,312 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
+File Name: E:\photography\wpriverthemes.com\ajax\libs\jquery\3.7.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/studio-freight/lenis@1/bundled/lenis.min.js
+File Name: E:\photography\wpriverthemes.com\gh\studio-freight\lenis@1\bundled\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: E:\photography\wpriverthemes.com\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap
+File Name: E:\photography\wpriverthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: E:\photography\wpriverthemes.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: E:\photography\wpriverthemes.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: E:\photography\wpriverthemes.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/css/aos.css
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/css/bootstrap.min.css
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/css/iconoir.css
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\css\iconoir.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/css/owl.carousel.min.css
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/css/responsive.css
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/css/style.css
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\css\style.css
+Content Type: text/css
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/about.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\about.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp1c.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp1c.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp1l.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp1l.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp1r.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp1r.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp2c.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp2c.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp2l.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp2l.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp2r.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp2r.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp3c.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp3c.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp3l.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp3l.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp3r.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp3r.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp4c.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp4c.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp4l.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp4l.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp4r.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp4r.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp5c.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp5c.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp5l.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp5l.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp5r.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp5r.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp6c.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp6c.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp6l.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp6l.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/bp6r.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\bp6r.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/contact.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\contact.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/dLogo.svg
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\dLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/Favicon.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\Favicon.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-1.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-1.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-2.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-2.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-3.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-3.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-4.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-4.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-5.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-5.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-6.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-6.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/h-7.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\h-7.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp11.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp11.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp12.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp12.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp13.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp13.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp14.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp14.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp21.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp21.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp22.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp22.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp23.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp23.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp24.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp24.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp31.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp31.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp32.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp32.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp33.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp33.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp41.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp41.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp42.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp42.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/pp43.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\pp43.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/skill1.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\skill1.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/images/skill2.png
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\images\skill2.png
+Content Type: image/png
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/js/ajax.js
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\js\ajax.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/js/aos.js
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\js\aos.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/js/bootstrap.min.js
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/js/owl.carousel.min.js
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/HTML/uniiq/assets/js/script.js
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\assets\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/about.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\about.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/blog-single1.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\blog-single1.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/blog-single2.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\blog-single2.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/blog-single3.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\blog-single3.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/blog-single4.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\blog-single4.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/blog-single5.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\blog-single5.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/blog-single6.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\blog-single6.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/contact.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\contact.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/home.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\home.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/portfolio.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\portfolio.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/project-page1.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\project-page1.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/project-page2.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\project-page2.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/project-page3.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\project-page3.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/project-page4.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\project-page4.html
+Content Type: text/html
+
+Uri: https://wpriverthemes.com/HTML/uniiq/dark-mode/skills.html
+File Name: E:\photography\wpriverthemes.com\HTML\uniiq\dark-mode\skills.html
+Content Type: text/html
+
